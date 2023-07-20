@@ -6,7 +6,16 @@
     <description>Recent content in Posts on The test hugo site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jul 2023 00:53:49 +0300</lastBuildDate><atom:link href="https://hovanja2011.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jul 2023 01:27:38 +0300</lastBuildDate><atom:link href="https://hovanja2011.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>https://hovanja2011.github.io/posts/second-post/</link>
+      <pubDate>Fri, 21 Jul 2023 01:27:38 +0300</pubDate>
+      
+      <guid>https://hovanja2011.github.io/posts/second-post/</guid>
+      <description>This is heading one This is heading two This is paragraph</description>
+    </item>
+    
     <item>
       <title>First Post</title>
       <link>https://hovanja2011.github.io/posts/first-post/</link>
