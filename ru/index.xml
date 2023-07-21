@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Тестовый hugo-сайт</title>
+    <link>https://hovanja2011.github.io/ru/</link>
+    <description>Recent content on Тестовый hugo-сайт</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 21 Jul 2023 08:17:48 +0300</lastBuildDate><atom:link href="https://hovanja2011.github.io/ru/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Третий пост</title>
+      <link>https://hovanja2011.github.io/ru/posts/third-post/</link>
+      <pubDate>Fri, 21 Jul 2023 08:17:48 +0300</pubDate>
+      
+      <guid>https://hovanja2011.github.io/ru/posts/third-post/</guid>
+      <description>Lorem Ipsum Lorem Ipsum - это текст-&amp;ldquo;рыба&amp;rdquo;, часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной &amp;ldquo;рыбой&amp;rdquo; для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, используя Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пять веков, но и перешагнул в электронный дизайн. Его популяризации в новое время послужили публикация листов Letraset с образцами Lorem Ipsum в 60-х годах и, в более недавнее время, программы электронной вёрстки типа Aldus PageMaker, в шаблонах которых используется Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Второй пост</title>
+      <link>https://hovanja2011.github.io/ru/posts/second-post/</link>
+      <pubDate>Fri, 21 Jul 2023 01:27:38 +0300</pubDate>
+      
+      <guid>https://hovanja2011.github.io/ru/posts/second-post/</guid>
+      <description>Это заголовок 1 Это заголовок 2 Это параграф</description>
+    </item>
+    
+    <item>
+      <title>Первый пост</title>
+      <link>https://hovanja2011.github.io/ru/posts/first-post/</link>
+      <pubDate>Fri, 21 Jul 2023 00:53:49 +0300</pubDate>
+      
+      <guid>https://hovanja2011.github.io/ru/posts/first-post/</guid>
+      <description>Здесь какой-то содержательный текст
+public static void main(String[]args) { System.out.println(&amp;#34;This is a print statement&amp;#34;); } </description>
+    </item>
+    
+  </channel>
+</rss>
