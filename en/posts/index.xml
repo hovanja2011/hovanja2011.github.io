@@ -26,12 +26,12 @@
     </item>
     
     <item>
-      <title>First Post</title>
+      <title>Первый пост</title>
       <link>https://hovanja2011.github.io/en/posts/first-post/</link>
       <pubDate>Fri, 21 Jul 2023 00:53:49 +0300</pubDate>
       
       <guid>https://hovanja2011.github.io/en/posts/first-post/</guid>
-      <description>This is some content
+      <description>It is texts
 public static void main(String[]args) { System.out.println(&amp;#34;This is a print statement&amp;#34;); } </description>
     </item>
     
